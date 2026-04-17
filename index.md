@@ -1,1 +1,44 @@
+<div align="center">
 
+## ✨ 平生有李全网综合分享 ✨
+
+---
+
+<img src="https://pan.baidu.re/view.php/41bd9c87450a80dc2a1f7a8731a37f1d.gif" alt="置顶GIF" />
+
+---
+
+| 图标 | 名称 | 原始 | 镜像 |
+|:---:|:---:|:---:|:---:|
+| 🔥 | 2元1T机场 | [进入](https://proxy.api.030101.xyz/kelayun.github.io) | - |
+| ⚡ | 镜像仓库 | [进入](https://codeberg.org/Jsnzkpg/Jsnzkpg) | - |
+| ✈️ | TG频道 | [进入](https://t.me/stymei) | - |
+| ✈️ | 备用频道 | [进入](https://t.me/pyapk) | - |
+| ✈️ | TG群聊 | [进入](https://t.me/+j664EmVv8m0wZGVk) | - |
+| ✈️ | TG代理 | [进入](https://Jsnzkpg.github.io/TelegramProxy) | - |
+| 🔖 | 书签收藏 | [进入](https://Jsnzkpg.github.io) | - |
+| 🚀 | 共享火箭 | [进入](https://stymei.github.io) | - |
+| 🐈‍⬛ | Github加速 | [进入](https://pyapk.github.io) | - |
+| 🔄 | 订阅转换 | [进入](https://stymei.cc.cd) | - |
+| 🔗 | 直链托管 | [进入](https://Jsnzkpg.github.io/Jsnzkpg) | - |
+| 🎧 | 音乐网站 | [进入](https://Jsnzkpg.github.io/music) | - |
+| 🔍 | 网盘搜索 | [进入](https://Jsnzkpg.github.io/pansou) | - |
+| 📭 | 临时邮箱 | [进入](https://Jsnzkpg.github.io/email) | - |
+| 🤖 | 智能Ai | [进入](https://Jsnzkpg.github.io/ai) | - |
+| 🪜 | 节点订阅 | [原始](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg) | [镜像](https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg) |
+| 📺 | IPTV订阅 | [原始](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u) | [镜像](https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1.m3u) |
+| 🎥 | TVbox订阅 | [原始](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2) | [镜像](https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg2) |
+| 🎞️ | UZ影视订阅 | [原始](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg3) | [镜像](https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg3) |
+| 📽️ | Cinetry订阅 | [原始](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg4) | [镜像](https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg4) |
+| 📹 | EchoTV订阅 | [原始](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg5) | [镜像](https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg5) |
+| 🐱 | 猫源订阅 | [原始](https://raw.githubusercontent.com/Jsnzkpg/stymei/Jsnzkpg/index.js.md5) | [镜像](https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/stymei/Jsnzkpg/index.js.md5) |
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jsnzkpg/jsnzkpg&type=Date&legend=top-left)](https://www.star-history.com/#jsnzkpg/jsnzkpg&type=date&legend=top-left)
+
+---
+
+</div>
