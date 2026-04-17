@@ -22,8 +22,8 @@
 | 🚀 | 共享火箭 | [进入](https://stymei.github.io) | - |
 | 🐈‍⬛ | Github加速 | [进入](https://pyapk.github.io) | - |
 | 🔄 | 订阅转换 | [进入](https://stymei.cc.cd) | - |
-| 🔗 | 直链托管 | [进入](https://Jsnzkpg.github.io/Jsnzkpg) | - |
-| 🎧 | 音乐网站 | [进入](https://Jsnzkpg.github.io/music) | - |
+| 🔗 | 直链托管 | [进入](http://tcj.gt.tc/?i=1) | - |
+| 🎧 | 音乐网站 | [进入](https://clp.gamer.gd/) | - |
 | 🔍 | 网盘搜索 | [进入](https://Jsnzkpg.github.io/pansou) | - |
 | 📭 | 临时邮箱 | [进入](https://Jsnzkpg.github.io/email) | - |
 | 🤖 | 智能Ai | [进入](https://Jsnzkpg.github.io/ai) | - |
